@@ -157,6 +157,7 @@ body{
     background: var(--tenne-tawny);    
 }
 
+
 @media screen and (min-width: 600px) {
     .meal-search-box{
         width: 540px;
